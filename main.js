@@ -1,18 +1,24 @@
-//Your Pokémon just evolved, and its stats have increased by 20%! Now, it’s time to calculate its new stats after evolution as a whole number.
+/* Pokémon Evolver
 
-//Given then original pokemonStats return the newly evolved Pokemon Stats
+Our database has crashed and we need your help to slowly rebuild. 
 
-//Your Pokémon just evolved, and its stats increased by 20%! You need to calculate the new stats for a Pokémon based on its original stat value. Write a function that takes the original stat as input and returns the evolved stat after applying the 20% increase.
+It looks like your Pokémon has just evolved, and its stats have increased by 20% (Well done you!)! Now, it’s time to calculate its new stat (integer) after evolution. 
 
-//OUTPUT Example:
+Given the original pokemonStat return the newly evolved Pokemon Stats
 
-// 250XP ---> 300XP
-// 1050XP ---> 1260XP
-// 10XP ---> 12XP
+  250XP ---> 300XP
+  1050XP ---> 1260XP
+  100P ---> 12XP
+
+Make sure to install vitest into your 'devDependencies'
+  npm install vitest -d
+
+Place vitest into scripts
+
+"test": "vitest"
+  npm run test*/
 
 
 export function pokemonEvolveNewStats(pokemonStat) {
-
+  // I wanna be the very best
 }
-
-
